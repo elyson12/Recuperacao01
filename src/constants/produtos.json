@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Perfume",    
+    "status": "indisponível",
+    "desc": "Miguel Rousseouf",
+    "categ": "cosmeticos",
+    "value": "100.00",
+    "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/volarium/catalog/produtos/volarium/perfume/perfume-feminino/perfume-feminino-ch-tradicional-importado-original.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Colar",    
+    "status": "disponivel",
+    "desc": "Jand Karno em perolas",
+    "categ": "acessorio",
+    "value": "2200.00",
+    "image": "https://cdn.awsli.com.br/600x450/1537/1537341/produto/152389745/01e29e7fcc.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Perfume",
+    "status": "disponivel",
+    "desc": "Perfume Egeo Dolce",
+    "categ": "cosmeticos",
+    "value": "120.00",
+    "image": "https://down-br.img.susercontent.com/file/29266a39e955d74aa53fc5d8ec9bb1c9"
+  },
+  {
+    "id": 4,
+    "name": "Brinco",
+    "status": "disponivel",
+    "desc": "Joia Turca Prata Navete",
+    "categ": "acessorio",
+    "value": "2900.00",
+    "image": "https://cdn.awsli.com.br/600x1000/247/247006/produto/140282179b0eea022ee.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Creme Hidratante",
+    "status": "indisponível",
+    "desc": "Nativa Spa Flor de Ameixa 400ml",
+    "categ": "cosmeticos",
+    "value": "69.90", 
+    "image": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B48017/NSPA-LOC-DES-HID-CPO-F-AMEI-400ml-V3_B48017.jpg"
+  }
+]
